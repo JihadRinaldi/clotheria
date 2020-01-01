@@ -42,6 +42,7 @@ export default class SignIn extends Component {
             required
           />
           <FormInput
+            autoComplete="on"
             name="password"
             type="password"
             value={this.state.password}
