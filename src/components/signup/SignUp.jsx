@@ -83,6 +83,7 @@ export default class SignUp extends Component {
             value={password}
             onChange={this.handleChange}
             label="Password"
+            autoComplete="on"
             required
           />
           <FormInput
@@ -91,6 +92,7 @@ export default class SignUp extends Component {
             value={confirmPassword}
             onChange={this.handleChange}
             label="Confirm Password"
+            autoComplete="on"
             required
           />
           <CustomButton type="submit">SIGN UP</CustomButton>
