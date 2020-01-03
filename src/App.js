@@ -5,7 +5,7 @@ import { createStructuredSelector } from "reselect";
 import { selectCurrentUser } from "./redux/user/user.selector";
 
 import "./App.styles.scss";
-// 
+
 import HomePage from "./views/homepage/HomePage";
 import ShopPage from "./views/shop/ShopPage";
 import CheckoutPage from "./views/checkout/CheckoutPage";
