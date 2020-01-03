@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1c2d88fd9e3e08ae0319ee142001714",
+    "revision": "9be9537230754f47aeaaebba0b72219d",
     "url": "/clotheria/index.html"
   },
   {
-    "revision": "1ec098afaab310185b69",
+    "revision": "99cf196f3c5dfddba1a7",
     "url": "/clotheria/static/css/main.9a502c84.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clotheria/static/js/2.34e9b713.chunk.js.LICENSE"
   },
   {
-    "revision": "1ec098afaab310185b69",
-    "url": "/clotheria/static/js/main.6618c1f8.chunk.js"
+    "revision": "99cf196f3c5dfddba1a7",
+    "url": "/clotheria/static/js/main.79527769.chunk.js"
   },
   {
     "revision": "cb6d289bbbc41131ee60",
